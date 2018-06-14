@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:unit_converter/Category.dart';
 import 'package:unit_converter/unit.dart';
 
-final _backgroundColor=Colors.green[100];
+final _backgroundColor=Color.fromRGBO(66, 165, 245, 1.0);
 
 class CategoryRoute extends StatefulWidget{
   const CategoryRoute();
